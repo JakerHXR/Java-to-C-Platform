@@ -35,13 +35,14 @@
 5. 导入依赖
 
    ```markdown
+   Logbok
    Spring Web 
    MySQL Driver 
    Spring Data JDBC 
    MyBatis Framework 
    ```
 
-   ![image-20231022175233805](C:\Users\Jaker\AppData\Roaming\Typora\typora-user-images\image-20231022175233805.png)
+   ![image-20231024201335200](C:\Users\Jaker\AppData\Roaming\Typora\typora-user-images\image-20231024201335200.png)
 
 6. 点击generate 生成压缩包
 
